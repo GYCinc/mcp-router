@@ -56,7 +56,7 @@
   "dependencies": {
     "@trpc/client": "^11.8.1",
     "superjson": "^2.2.5",
-    "zod": "^3.25.76"
+    "zod": "^4.6.6"
   },
   "devDependencies": {
     "@mcp_router/shared": "workspace:*",
